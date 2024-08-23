@@ -2,7 +2,7 @@
 
 ## δLFIT2
 
-This is the official implementation for δLFIT2.
+This is the official implementation for δLFIT2 from the paper "Variable Assignment Invariant Neural Networks for Learning Logic Programs".
 
 ## Install
 
@@ -36,4 +36,14 @@ $ accelerate launch train_accelerator.py
 
 ## Citation
 
-Coming soon.
+```txt
+@misc{phua2024variableassignmentinvariantneural,
+      title={Variable Assignment Invariant Neural Networks for Learning Logic Programs}, 
+      author={Yin Jun Phua and Katsumi Inoue},
+      year={2024},
+      eprint={2408.10709},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2408.10709}, 
+}
+```
